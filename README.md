@@ -27,7 +27,7 @@ This is a beginner-friendly full-stack + basic AI project, built using HTML, CSS
   Frontend: HTML,CSS,JavaScript
   Backend: Django
   Database: MYSQL
-  AI integration: GOOgle Gemini API
+  AI integration: Google Gemini API
 
 ## Future Scope
 1) OCR for medical report text extraction
